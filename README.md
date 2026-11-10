@@ -43,7 +43,7 @@ All content on this page is **placeholder material for a design concept**:
 - The contact email, phone number, and address in the footer are dummy values.
 - Features described on the page, such as automatic matching and QR proof-of-handover, are ideas for the project and are not implemented here.
 
-The hero photo is **[add photo source and credit, or replace with a free-licensed image]**.
+The hero photo is **Kalimasada's from Crypto Academy, giving rice every week**.
 
 ## Related
 
