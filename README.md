@@ -2,7 +2,7 @@
 
 A responsive landing page for **ObiKhairat**, a concept charity platform that connects donors of gently used essentials with families in need. Recipients only cover delivery.
 
-**Live demo:** https://danzeem.github.io/landing-page/
+**Live demo:** https://danzeem.github.io/landing-page-obi-khairat/
 
 ![Landing page hero](screenshots/hero.png)
 
